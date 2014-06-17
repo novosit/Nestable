@@ -1,0 +1,25 @@
+{
+  "name": "jquery-nestable",
+  "description": "Nestable",
+  "version": "0.0.1",
+  "author": "dbushell",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/novosit/Nestable"
+  },
+  "dojoBuild": "profile.build.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "component": {
+    "scripts": {}
+  },
+  "scripts": {},
+  "contributors": [
+  ],
+  "readmeFilename": "README.md",
+  "keywords": [
+  ],
+  "license": "MIT"
+}
